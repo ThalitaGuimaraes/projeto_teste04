@@ -1,5 +1,4 @@
 #language: pt
-#encoding: iso-8859-1
 
 Funcionalidade: Autenticar Usuários
 	como um usuário cadastrado no sistema
